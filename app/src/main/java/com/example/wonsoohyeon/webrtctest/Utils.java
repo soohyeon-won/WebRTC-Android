@@ -11,7 +11,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class Utils {
 
     static Utils instance;
-    public static final String API_ENDPOINT = "https://appr.tc/";
+    public static final String API_ENDPOINT = "https://service.xirsys.com";
 
     public static Utils getInstance() {
         if (instance == null) {
