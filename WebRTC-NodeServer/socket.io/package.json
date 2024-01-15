@@ -57,8 +57,8 @@
   "description": "node.js realtime framework server",
   "devDependencies": {
     "expect.js": "0.3.1",
-    "mocha": "^3.5.3",
-    "nyc": "^11.2.1",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
     "superagent": "^3.8.2",
     "supertest": "^3.0.0"
   },
